@@ -1,0 +1,49 @@
+
+
+.Footer-img{
+    margin-top: 100px;
+    display:flex;
+    justify-content: center;
+}
+
+
+.Footer-logo{
+    width: 150px;
+}
+
+.Footer-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.Footer-item{
+    padding: 4%;
+}
+.Footer-item-maintext{
+    list-style-type: none; 
+  text-decoration: none;
+}
+
+.Footer-item-secondtext{
+    list-style-type: none; 
+    text-decoration: none;
+    color: black;
+}
+
+.Footer-item-secondtext li{
+    margin-top: 5px;
+}
+
+.Footer-item-secondtext li a{
+    text-decoration: none;
+    color: black;
+}
+
+.Footer-item-massengers{
+    display: flex;
+    justify-content: center;
+}
+
+.Footer-item-massengers-logo{
+    padding: 10px;
+}
