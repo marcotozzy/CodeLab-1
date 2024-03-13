@@ -1,0 +1,45 @@
+.effect{
+    
+    &__mainText {
+    text-align: center;
+    }
+    &__header {
+        font-size: 30px;
+        font-weight: normal;
+    }
+
+    &__description {
+        font-size: 26px;
+        font-style: italic;
+    
+    }
+    
+    &__stats {
+    display: flex;
+    justify-content: center;
+    }
+    &__item {
+        text-align: center;
+        margin: 100px;
+        border-color: black;
+        border-radius: 1px;
+        font-style: italic;
+    }
+    h1{
+        font-size: 50px;
+    }
+
+    p{
+        font-size: 24px;
+    }
+
+    &__footer {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: italic;
+    p{
+        font-size: 50px;
+    }
+    }
+}
